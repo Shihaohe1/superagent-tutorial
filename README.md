@@ -8,3 +8,5 @@
 `tests/test_temperature.py` 里已经有一条会失败的测试。
 
 请修好 `c_to_f()` 并确保 `python3 -m pytest`（或 `python3 -m unittest`）全绿。
+
+> PR 演示：这一行用来让你练习点 Merge。
