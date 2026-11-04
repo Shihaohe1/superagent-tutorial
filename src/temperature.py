@@ -6,3 +6,8 @@ def c_to_f(celsius):
 def f_to_c(fahrenheit):
     """华氏度转摄氏度。"""
     return (fahrenheit - 32) * 5 / 9
+
+
+def c_to_k(celsius):
+    """摄氏度转开尔文。"""
+    return celsius + 273.15
