@@ -11,3 +11,8 @@ def f_to_c(fahrenheit):
 def c_to_k(celsius):
     """摄氏度转开尔文。"""
     return celsius + 273.15
+
+
+def k_to_c(kelvin):
+    """开尔文转摄氏度。"""
+    return kelvin - 273.15
